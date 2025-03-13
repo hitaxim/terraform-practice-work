@@ -1,4 +1,4 @@
-$# Install Terraform
+## Install Terraform
 
 Official installation instructions from HashiCorp: https://learn.hashicorp.com/tutorials/terraform/install-cli
 
